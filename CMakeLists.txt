@@ -18,6 +18,7 @@ find_package(rosidl_default_generators REQUIRED)
 # set message files
 set(msg_files
   "msg/DetectedHazards.msg"
+  "msg/RiskMitigatingAction.msg"
 )
 
 # set service files
